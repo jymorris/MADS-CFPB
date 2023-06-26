@@ -8,15 +8,15 @@ This repository includes a series of Jupyter notebooks that perform a step-by-st
 
 1. [Mark Duplicative Complaints](./Mark%20Duplicative%20Complaints.ipynb) - Process to identify and mark duplicative complaints in the dataset.
 
-1.5 [Text Normalization And Train Test Dev Split](./Text%20Normalization%20And%20Train%20Test%20Dev%20Split.ipynb) - Text normalization process and splitting the data into train, test, and development sets.
+  - 1.5 [Text Normalization And Train Test Dev Split](./Text%20Normalization%20And%20Train%20Test%20Dev%20Split.ipynb) - Text normalization process and splitting the data into train, test, and development sets.
 
-2.0 - 2.3 These notebooks cover the iterative updates and evaluations of the TFIDF Vectorizer, including different n-gram approaches and feature selection strategies.
+2. 2.0 - 2.3 These notebooks cover the iterative updates and evaluations of the TFIDF Vectorizer, including different n-gram approaches and feature selection strategies.
 
 3. The tuning notebooks describe the process of hyperparameter tuning for various machine learning models, including Decision Trees, Logistic Regression, Naive Bayes, Random Forest, and SVM (both linear and non-linear).
 
-3.1.1 - 3.2.2.1.1 These notebooks present strategies for handling imbalanced classes in the dataset, including techniques like SMOTE and Upsampling, while using different classifiers. 
+  - 3.1.1 - 3.2.2.1.1 These notebooks present strategies for handling imbalanced classes in the dataset, including techniques like SMOTE and Upsampling, while using different classifiers. 
 
-3.TEST These notebooks include the final testing of various models.
+  - 3.TEST These notebooks include the final testing of various models.
 
 4. [10-Fold CV For Tuned Models](./10-Fold%20CV%20For%20Tuned%20Models.ipynb) - Evaluation of final models using a 10-Fold Cross Validation.
 
