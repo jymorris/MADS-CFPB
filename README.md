@@ -18,7 +18,7 @@ This repository includes a series of Jupyter notebooks that perform a step-by-st
 
   - 3.TEST These notebooks include the final testing of various models.
 
-4. [10-Fold CV For Tuned Models](./10-Fold%20CV%20For%20Tuned%20Models.ipynb) - Evaluation of final models using a 10-Fold Cross Validation.
+4. [10-Fold CV For Tuned Models](./10-Fold%20CV%20For%20Tuned%20Models.ipynb) - Evaluation of final models using a 10-Fold Cross Validation. The best model turned out to be the Multinomial Naive Bayes classifier.
 
 5. [NAIVE BAYES Feature Importance Analysis](./NAIVE%20BAYES%20Feature%20Importance%20Analysis.ipynb) - A deeper analysis of the most important features for the Naive Bayes classifier.
 
