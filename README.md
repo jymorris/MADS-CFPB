@@ -24,7 +24,7 @@ This repository includes a series of Jupyter notebooks that perform a step-by-st
 
 6. [NAIVE BAYES Sensitivity and Failure Analysis](./NAIVE%20BAYES%20Sensitivity%20and%20Failure%20Analysis.ipynb) - A sensitivity and failure analysis of the Naive Bayes classifier.
 
-7. [Unsupervised Learning](./unsupervised%20learning.ipynb) - This notebook, presents the unsupervised learning process and its associated analysis.
+7.0 [Unsupervised Learning](./unsupervised%20learning.ipynb) - This notebook, presents the unsupervised learning process and its associated analysis.
 
 ## Datasets
 
