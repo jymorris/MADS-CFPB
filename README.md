@@ -14,7 +14,7 @@ This repository includes a series of Jupyter notebooks that perform a step-by-st
 
 3. The tuning notebooks describe the process of hyperparameter tuning for various machine learning models, including Decision Trees, Logistic Regression, Naive Bayes, Random Forest, and SVM (both linear and non-linear).
 
-  - 3.1.1 - 3.2.2.1.1 These notebooks present strategies for handling imbalanced classes in the dataset, including techniques like SMOTE and Upsampling, while using different classifiers. 
+  - 3.1.1 - 3.2.2.1.1 These notebooks present strategies for handling imbalanced classes in the dataset, including techniques like SMOTE and Upsampling, while using different classifiers. even it says "best results so far" do not trust it, cause they were all tuned again in the tunning notebooks where the best parameters were investigated. This category is more of trial and error.
 
   - 3.TEST These notebooks include the final testing of various models.
 
